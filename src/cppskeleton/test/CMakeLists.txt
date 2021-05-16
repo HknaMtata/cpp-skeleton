@@ -9,7 +9,7 @@ add_executable(
     test.cpp
 )
 
-add_test(CppSkeletonTest cpp-skeleton-test)
+add_test(NAME ${PROJECT_NAME} COMMAND ${PROJECT_NAME} WORKING_DIRECTORY ${CTEST_OUTPUT_DIRECTORY})
 
 target_link_libraries(
     ${PROJECT_NAME} PUBLIC gtest cpp-skeleton

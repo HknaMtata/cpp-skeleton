@@ -1,0 +1,6 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.preferredGenerators": ["Unix Makefiles"],
+    "cmake.generator": "Unix Makefiles",
+    "cmake.buildDirectory": "${workspaceFolder}/build-${buildKit}-${buildType}",
+}
