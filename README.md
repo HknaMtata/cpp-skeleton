@@ -1,5 +1,5 @@
 # cpp-skeleton
 
-![example branch parameter](https://https://github.com/HknaMtata/cpp-skeleton/.github/workflows/manual.yml/badge.svg?branch=main)
+[![Status](https://github.com/HknaMtata/cpp-skeleton/workflows/Test/badge.svg)](https://github.com/HknaMtata/cpp-skeleton/actions)
 
 Template for a cpp project
